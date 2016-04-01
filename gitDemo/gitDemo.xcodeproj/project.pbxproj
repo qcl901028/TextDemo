@@ -14,6 +14,7 @@
 		BC03A6D11CAE50F90012AB26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC03A6D01CAE50F90012AB26 /* Assets.xcassets */; };
 		BC03A6D41CAE50F90012AB26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC03A6D21CAE50F90012AB26 /* LaunchScreen.storyboard */; };
 		BC03A6DD1CAE54E20012AB26 /* PersonB.m in Sources */ = {isa = PBXBuildFile; fileRef = BC03A6DC1CAE54E20012AB26 /* PersonB.m */; };
+		BC03A6E11CAE57190012AB26 /* Preso.m in Sources */ = {isa = PBXBuildFile; fileRef = BC03A6E01CAE57190012AB26 /* Preso.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		BC03A6D51CAE50F90012AB26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC03A6DB1CAE54E20012AB26 /* PersonB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonB.h; sourceTree = "<group>"; };
 		BC03A6DC1CAE54E20012AB26 /* PersonB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonB.m; sourceTree = "<group>"; };
+		BC03A6DF1CAE57190012AB26 /* Preso.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Preso.h; sourceTree = "<group>"; };
+		BC03A6E01CAE57190012AB26 /* Preso.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Preso.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +74,8 @@
 				BC03A6D21CAE50F90012AB26 /* LaunchScreen.storyboard */,
 				BC03A6D51CAE50F90012AB26 /* Info.plist */,
 				BC03A6C41CAE50F90012AB26 /* Supporting Files */,
+				BC03A6DF1CAE57190012AB26 /* Preso.h */,
+				BC03A6E01CAE57190012AB26 /* Preso.m */,
 			);
 			path = gitDemo;
 			sourceTree = "<group>";
@@ -164,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC03A6CC1CAE50F90012AB26 /* ViewController.m in Sources */,
+				BC03A6E11CAE57190012AB26 /* Preso.m in Sources */,
 				BC03A6DD1CAE54E20012AB26 /* PersonB.m in Sources */,
 				BC03A6C91CAE50F90012AB26 /* AppDelegate.m in Sources */,
 				BC03A6C61CAE50F90012AB26 /* main.m in Sources */,
